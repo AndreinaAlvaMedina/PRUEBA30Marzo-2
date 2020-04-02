@@ -36,6 +36,9 @@ public class Prueba30marzo {
        Sistema . a cabo . println ( " Sector 3, cambote zona 11, Huehuetenango " );
        Sistema . a cabo . println ( " 5737-5464 " );        
         
+        System.out.println("Andreina Alva");
+        System.out.println("Zona 3, Huehuetenango");
+        System.out.println("41807261");
     }
     
 }
